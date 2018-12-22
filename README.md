@@ -13,9 +13,9 @@ This dataset can be employed for the task of stereo image super-resolution.**
 <br><img src="/pics/Sample Images.png"><br><br>
 
 ## Downloads
-* Trainning_set.rar
-* Validation_set.rar
-* Test_set.rar
+* Trainning set
+* Validation set
+* Test set
 * If the above links are not accessable, you could download the dataset using Google Drive.
 
 ## Notations
@@ -30,12 +30,15 @@ We would like to thank [***Sascha Becher***](https://www.flickr.com/photos/stere
 
 ## Citiations
 
+
+
+## Related Work
+The following paper employed Flickr1024 for stereo SR:
+
 ## Related Datasets
 * [**The KITTI Vision Benchmark Suite**](http://www.cvlibs.net/datasets/kitti/index.php)
 * [**The Middlebury Stereo Vision Page**](http://vision.middlebury.edu/stereo/)
-* [**The ETH3D Benchmark**](https://www.eth3d.net/)
+* [**The ETH3D Benchmark**](https://www.eth3d.net/) 
 
-## Related Work
-* D. Jeon, S. Baek, I. Choi, and M. Kim, [Enhancing the spatial resolution of stereo images using a 
-  parallax prior](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0493.pdf), in CVPR 2018. 
-  
+## Contact
+Please contact ***Yingqian Wang*** (wangyingqian16@nudt.edu.cn) for any questions about the dataset.

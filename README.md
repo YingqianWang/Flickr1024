@@ -2,11 +2,11 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***Yingqian Wang&emsp; Longguang Wang&emsp; Jungang Yang&emsp; Wei An&emsp; [Yulan Guo](http://yulanguo.me/)***  <br>
 
-<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.png" width="512"><br><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.png" width="512"><br><br>
 
-**Flickr1024 is a large stereo dataset, which consists of 1024 high-quality images pairs and covers diverse senarios. 
-This dataset can be employed for the task of stereo image super-resolution.**
+***Flickr1024 is a large stereo dataset, which consists of 1024 high-quality images pairs and covers diverse senarios. 
+This dataset can be employed for the task of stereo image super-resolution.*** <br><br>
 
 ## Sample Images
 

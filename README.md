@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 
 # <div align="center"> *Flickr1024: Dataset for Stereo Image Super-resolution* </div>
 
@@ -42,3 +43,4 @@ The following paper employed Flickr1024 for stereo SR:
 
 ## Contact
 Please contact ***Yingqian Wang*** (wangyingqian16@nudt.edu.cn) for any question about the dataset.
+</html>

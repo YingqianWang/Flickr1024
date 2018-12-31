@@ -1,9 +1,8 @@
-# <center> *Flickr1024: Dataset for Stereo Image Super-resolution* </center>
-
-#### <center> *Yingqian Wang&emsp; Longguang Wang&emsp; Jungang Yang&emsp; Wei An&emsp; [Yulan Guo](http://yulanguo.me/)* </center><br><br>
-
-### <div align=center> <img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.png" width="480"> </div>
-
+<center>
+# *Flickr1024: Dataset for Stereo Image Super-resolution* 
+#### *Yingqian Wang&emsp; Longguang Wang&emsp; Jungang Yang&emsp; Wei An&emsp; [Yulan Guo](http://yulanguo.me/)* <br><br>
+### <img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.png" width="480">
+</center>
 ***Flickr1024 is a large stereo dataset, which consists of 1024 high-quality images pairs and covers diverse senarios. 
 This dataset can be employed for the task of stereo image super-resolution.*** <br><br>
 

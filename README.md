@@ -18,10 +18,10 @@ This dataset can be employed for the task of stereo image super-resolution.*** <
 * If the above links are not accessable, you could download the dataset using [***Baidu Drive***](https://pan.baidu.com/s/1FqEjK0amyCds21rRtUcX_A) or [***Google Drive***]().
 
 ## Notations
-* The **Flickr1024** dataset is available for **non-commercial** use only. 
-  Therefore, You agree not to reproduce, duplicate, copy, sell, trade, or resell any portion of the images and any portion of derived data.
-* All images on the **Flickr1024** dataset are obtained from [***Flickr***](https://flickr.com) which are not the property of our laboratory. 
-* We reserve the right to terminate your access to the **Flickr1024** dataset at any time.
+* The ***Flickr1024*** dataset is available for ***non-commercial*** use only. 
+  Therefore, You agree NOT to reproduce, duplicate, copy, sell, trade, or resell any portion of the images and any portion of derived data.
+* All images on the ***Flickr1024*** dataset are obtained from [***Flickr***](https://flickr.com) which are not the property of our laboratory. 
+* We reserve the right to terminate your access to the ***Flickr1024*** dataset at any time.
 
 ## Acknowledgement
 We would like to thank [***Sascha Becher***](https://www.flickr.com/photos/stereotron/) and
@@ -32,7 +32,7 @@ We would like to thank [***Sascha Becher***](https://www.flickr.com/photos/stere
 
 
 ## Related Work
-The following paper employed Flickr1024 for stereo SR:
+The following paper employed the ***Flickr1024*** dataset for stereo SR:
 
 ## Related Datasets
 * [**The KITTI Vision Benchmark Suite**](http://www.cvlibs.net/datasets/kitti/index.php)

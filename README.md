@@ -18,10 +18,10 @@ This dataset can be employed for the task of stereo image super-resolution.*** <
 * If the above links are not accessable, you could download the dataset using [***Baidu Drive***](https://pan.baidu.com/s/1FqEjK0amyCds21rRtUcX_A) or [***Google Drive***]().
 
 ## Notations
-* The ***Flickr1024*** dataset is available for ***non-commercial*** use only. 
+* The **Flickr1024** dataset is available for **non-commercial** use only. 
   Therefore, You agree NOT to reproduce, duplicate, copy, sell, trade, or resell any portion of the images and any portion of derived data.
-* All images on the ***Flickr1024*** dataset are obtained from [***Flickr***](https://flickr.com) which are not the property of our laboratory. 
-* We reserve the right to terminate your access to the ***Flickr1024*** dataset at any time.
+* All images on the **Flickr1024** dataset are obtained from [***Flickr***](https://flickr.com) which are not the property of our laboratory. 
+* We reserve the right to terminate your access to the **Flickr1024** dataset at any time.
 
 ## Acknowledgement
 We would like to thank [***Sascha Becher***](https://www.flickr.com/photos/stereotron/) and

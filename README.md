@@ -12,10 +12,10 @@ This dataset can be employed for the task of stereo image super-resolution.*** <
 <br><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Sample Images.png"><br><br>
 
 ## Downloads
-* ***[Train](https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.png)***
-* ***[Validation](https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.png)***
-* ***[Test](https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.png)***
-* If the above links are not accessable, you could download the dataset using [***Baidu Drive***](https://pan.baidu.com/s/1FqEjK0amyCds21rRtUcX_A).
+* ***[Train](https://s3-us-west-1.amazonaws.com/wyqdatabase/Train.rar)***
+* ***[Validation](https://s3-us-west-1.amazonaws.com/wyqdatabase/Validation.rar)***
+* ***[Test](https://s3-us-west-1.amazonaws.com/wyqdatabase/Test.rar)***
+* If the above links are not accessable, you could download the dataset using [***Baidu Drive***](https://pan.baidu.com/s/1FqEjK0amyCds21rRtUcX_A) or [***Google Drive***]().
 
 ## Notations
 * The **Flickr1024** dataset is available for **non-commercial** use only. 

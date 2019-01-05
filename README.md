@@ -10,7 +10,7 @@ This dataset can be employed for the task of stereo image super-resolution.*** <
 
 ## Sample Images
 
-<br><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Sample Images.jpg"><br><br>
+<br><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Sample Images.png"><br><br>
 
 ## Downloads
 * ***[Train](https://s3-us-west-1.amazonaws.com/wyqdatabase/Train.rar)***

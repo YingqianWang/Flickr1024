@@ -1,7 +1,7 @@
 
 # *<center>Flickr1024: Dataset for Stereo Image Super-resolution</center>* 
 
-***<center>Yingqian Wang&emsp;&emsp; Longguang Wang&emsp;&emsp; Jungang Yang&emsp;&emsp; Wei An&emsp;&emsp; <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a></center>*** <br><br>
+***<center>Yingqian Wang&emsp;&emsp; Longguang Wang&emsp;&emsp; Jungang Yang&emsp;&emsp; Wei An&emsp;&emsp; <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a></center>*** <br>
 
 ### <center><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.png" width="480"></center>
 

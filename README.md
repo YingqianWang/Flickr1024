@@ -17,12 +17,13 @@ This dataset can be employed for the task of stereo image super-resolution.*** <
 * ***[Validation](https://s3-us-west-1.amazonaws.com/wyqdatabase/Validation.rar)***
 * ***[Test](https://s3-us-west-1.amazonaws.com/wyqdatabase/Test.rar)***
 * If the above links are not accessable, you could download the dataset using 
-***<a href="https://pan.baidu.com/s/1YD76gpQ2WjkhjkMnHmU3tQ" target="_blank">Baidu Drive</a>*** or ***<a href="https://drive.google.com/drive/folders/10LTXCSp9UqY9A9HVj3sAf7zmS4KdJo2T?usp=sharing" target="_blank">Google Drive</a>***.
+***<a href="https://pan.baidu.com/s/1YD76gpQ2WjkhjkMnHmU3tQ" target="_blank">Baidu Drive</a>*** or 
+***<a href="https://drive.google.com/drive/folders/10LTXCSp9UqY9A9HVj3sAf7zmS4KdJo2T?usp=sharing" target="_blank">Google Drive</a>***
 
 ## Notations
 * The ***Flickr1024*** dataset is available for ***non-commercial*** use only. 
   Therefore, You agree **NOT** to reproduce, duplicate, copy, sell, trade, or resell any portion of the images and any portion of derived data.
-* All images on the ***Flickr1024*** dataset are obtained from [***Flickr***](https://flickr.com) which are not the property of our laboratory. 
+* All images on the ***Flickr1024*** dataset are obtained from [***Flickr***](https://flickr.com), which are not the property of our laboratory. 
 * We reserve the right to terminate your access to the ***Flickr1024*** dataset at any time.
 
 ## Acknowledgement
@@ -37,9 +38,9 @@ We would like to thank [***Sascha Becher***](https://www.flickr.com/photos/stere
 The following paper employed the ***Flickr1024*** dataset for stereo SR:
 
 ## Related Datasets
-* [**The KITTI Vision Benchmark Suite**](http://www.cvlibs.net/datasets/kitti/index.php)
-* [**The Middlebury Stereo Vision Page**](http://vision.middlebury.edu/stereo/)
-* [**The ETH3D Benchmark**](https://www.eth3d.net/) 
+* ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***
+* ***<a href="http://vision.middlebury.edu/stereo/" target="_blank">The Middlebury Stereo Vision Page</a>***
+* ***<a href="https://www.eth3d.net/" target="_blank">The ETH3D Benchmark</a>***
 
 ## Contact
 Please contact ***Yingqian Wang*** (wangyingqian16@nudt.edu.cn) for any question about the dataset.

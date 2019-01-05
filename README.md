@@ -23,12 +23,13 @@ This dataset can be employed for the task of stereo image super-resolution.*** <
 ## Notations
 * The ***Flickr1024*** dataset is available for ***non-commercial*** use only. 
   Therefore, You agree **NOT** to reproduce, duplicate, copy, sell, trade, or resell any portion of the images and any portion of derived data.
-* All images on the ***Flickr1024*** dataset are obtained from [***Flickr***](https://flickr.com), which are not the property of our laboratory. 
+* All images on the ***Flickr1024*** dataset are obtained from ***<a href="https://flickr.com" target="_blank">Flickr</a>***
+and they are not the property of our laboratory. 
 * We reserve the right to terminate your access to the ***Flickr1024*** dataset at any time.
 
 ## Acknowledgement
-We would like to thank [***Sascha Becher***](https://www.flickr.com/photos/stereotron/) and
-[***Tom Bentz***](https://www.flickr.com/photos/tombentz) for the approval of using their cross-eye stereo photographs.
+We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" target="_blank">Sascha Becher</a>***
+ and ***<a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a>*** for the approval of using their cross-eye stereo photographs.
 
 ## Citiations
 

@@ -32,7 +32,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
  and ***<a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a>*** for the approval of using their cross-eye stereo photographs.
 
 ## Citiations
-
+* Yingqian Wang, Longguang Wang, Jungang Yang, Wei An, and Yulan Guo, "Flickr1024: A Dataset for Stereo Image Super-Resolution", arXiv: 1903.06332*. **[<a href="https://arxiv.org/pdf/1903.06332.pdf">pdf</a>]**.
 
 
 ## Related Work

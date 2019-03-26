@@ -33,7 +33,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 
 ## Citiations
  * @article{wang2019flickr1024,<br>
- title={**[<a href="https://arxiv.org/pdf/1903.06332.pdf">Flickr1024: A Dataset for Stereo Image Super-Resolution</a>]**},<br>
+ title={**<a href="https://arxiv.org/pdf/1903.06332.pdf">Flickr1024: A Dataset for Stereo Image Super-Resolution</a>**},<br>
  author={Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},<br>
  journal={arXiv preprint arXiv:1903.06332},<br>
  year={2019}<br>

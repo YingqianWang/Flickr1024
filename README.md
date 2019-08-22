@@ -1,11 +1,11 @@
 
-# *<center>Flickr1024: A Dataset for Stereo Image Super-resolution</center>* 
+# *<center>Flickr1024: A Large-Scale Dataset for Stereo Image Super-resolution</center>* 
 
 ***<center>Yingqian Wang&emsp;&emsp; Longguang Wang&emsp;&emsp; Jungang Yang&emsp;&emsp; Wei An&emsp;&emsp; <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a></center>*** <br>
 
 ### <center><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.png" width="480"></center>
 
-***Flickr1024 is a large stereo dataset, which consists of 1024 high-quality images pairs and covers diverse senarios. 
+***Flickr1024 is a large-scale stereo dataset, which consists of 1024 high-quality images pairs and covers diverse senarios. 
 This dataset can be employed for stereo image super-resolution (SR).*** <br><br>
 
 ## Sample Images
@@ -32,14 +32,13 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
  and ***<a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a>*** for the approval of using their cross-eye stereo photographs.
 
 ## Citiations
- * @article{<br>
+ * @inproceedings{<br>
  wang2019flickr1024,<br>
- title={**<a href="https://arxiv.org/pdf/1903.06332.pdf">Flickr1024: A Dataset for Stereo Image Super-Resolution</a>**},<br>
+ title={**Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution**},<br>
  author={Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},<br>
- journal={arXiv preprint arXiv:1903.06332},<br>
+ booktitle={Proceedings of the International Conference on Computer Vision Workshops},<br>
  year={2019}<br>
- }<br>
-
+ }<br> 
 
 
 ## Related Work

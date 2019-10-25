@@ -32,13 +32,13 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
  and ***<a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a>*** for the approval of using their cross-eye stereo photographs.
 
 ## Citiations
-* @inproceedings{<br>
-  wang2019flickr1024,<br>
-  title={Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution},<br>
-  author={Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},<br>
-  booktitle={Proceedings of the International Conference on Computer Vision Workshops},<br>
-  year={2019}<br>
-  }<br> 
+* @InProceedings{Wang_2019_ICCV_Workshops,<br>
+  author = {Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},<br>
+  title = {Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution},<br>
+  booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},<br>
+  month = {Oct},<br>
+  year = {2019}<br>
+  }<br>
   
 * @inproceedings{<br>
   wang2019learning,<br>

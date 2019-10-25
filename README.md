@@ -32,7 +32,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
  and ***<a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a>*** for the approval of using their cross-eye stereo photographs.
 
 ## Citiations
-* @InProceedings{Wang_2019_ICCV_Workshops,<br>
+* @InProceedings{flickr1024,<br>
   author = {Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},<br>
   title = {Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution},<br>
   booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},<br>
@@ -40,8 +40,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
   year = {2019}<br>
   }<br>
   
-* @inproceedings{<br>
-  wang2019learning,<br>
+* @inproceedings{PASSRnet,<br>
   title={Learning parallax attention for stereo image super-resolution},<br>
   author={Wang, Longguang and Wang, Yingqian and Liang, Zhengfa and Lin, Zaiping and Yang, Jungang and An, Wei and Guo, Yulan},<br>
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},<br>

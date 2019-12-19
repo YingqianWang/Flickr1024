@@ -52,6 +52,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 ## Related Work
 The following paper employed the ***Flickr1024*** dataset for stereo SR:
 * Longguang Wang, Yingqian Wang, Zhengfa Liang, Zaiping Lin, Jungang Yang, Wei An, and Yulan Guo, "Learning Parallax Attention for Stereo Image Super-resolution", in *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet">code</a>]**.
+* Chenyang Duan, Nanfeng Xiao, "Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution", *IEEE Access*, 2019. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936066">pdf</a>]**.
 
 ## Related Datasets
 * ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***

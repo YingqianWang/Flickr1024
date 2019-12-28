@@ -50,9 +50,10 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 
 
 ## Related Work
-The following paper employed the ***Flickr1024*** dataset for stereo SR:
-* Longguang Wang, Yingqian Wang, Zhengfa Liang, Zaiping Lin, Jungang Yang, Wei An, and Yulan Guo, "Learning Parallax Attention for Stereo Image Super-resolution", in *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet">code</a>]**.
-* Chenyang Duan, Nanfeng Xiao, "Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution", *IEEE Access*, 2019. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936066">pdf</a>]**.
+The following papers employed the ***Flickr1024*** dataset for their research:
+* L. Wang, Y. Wang, Z. Liang, Z. Lin, J. Yang, W. An, Y. Guo, "Learning Parallax Attention for Stereo Image Super-resolution", in *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet">code</a>]**.
+* Y. Oktar, D. Karakaya, O. Ulucan, M. Turkan, "Convolutional Neural Networks: A Binocular Vision Perspective", *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf">pdf</a>]**
+* C. Duan, N. Xiao, "Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution", *IEEE Access*, 2019. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936066">pdf</a>]**.
 
 ## Related Datasets
 * ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***
@@ -60,5 +61,5 @@ The following paper employed the ***Flickr1024*** dataset for stereo SR:
 * ***<a href="https://www.eth3d.net/" target="_blank">The ETH3D Benchmark</a>***
 
 ## Contact
-Please contact ***Yingqian Wang*** (wangyingqian16@nudt.edu.cn) for any question about the dataset.
+***Yingqian Wang*** (wangyingqian16@nudt.edu.cn).
 

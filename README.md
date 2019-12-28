@@ -55,11 +55,11 @@ The following papers employed the ***Flickr1024*** dataset for their research:
 * Y. Oktar, D. Karakaya, O. Ulucan, M. Turkan, "Convolutional Neural Networks: A Binocular Vision Perspective", *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf">pdf</a>]**
 * C. Duan, N. Xiao, "Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution", *IEEE Access*, 2019. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936066">pdf</a>]**.
 
-## Related Datasets
+## Other Stereo Image Datasets
 * ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***
 * ***<a href="http://vision.middlebury.edu/stereo/" target="_blank">The Middlebury Stereo Vision Page</a>***
 * ***<a href="https://www.eth3d.net/" target="_blank">The ETH3D Benchmark</a>***
-
+* ***<a href="https://github.com/HKBU-HPML/IRS" target="_blank">The IRS Dataset</a>***
 ## Contact
-***Yingqian Wang*** (wangyingqian16@nudt.edu.cn).
+Please contact us at ***wangyingqian16@nudt.edu.cn*** for any question.
 

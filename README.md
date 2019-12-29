@@ -59,7 +59,7 @@ The following papers employed the ***Flickr1024*** dataset for their research:
 * ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***
 * ***<a href="http://vision.middlebury.edu/stereo/" target="_blank">The Middlebury Stereo Vision Page</a>***
 * ***<a href="https://www.eth3d.net/" target="_blank">The ETH3D Benchmark</a>***
-* ***<a href="https://github.com/HKBU-HPML/IRS" target="_blank">The IRS Dataset</a>***
+
 ## Contact
 Please contact us at ***wangyingqian16@nudt.edu.cn*** for any question.
 

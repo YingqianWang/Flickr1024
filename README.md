@@ -16,7 +16,7 @@ This dataset can be employed for stereo image super-resolution (SR). [<a href="h
 * ***[Train](https://s3-us-west-1.amazonaws.com/wyqdatabase/Train.rar)***
 * ***[Validation](https://s3-us-west-1.amazonaws.com/wyqdatabase/Validation.rar)***
 * ***[Test](https://s3-us-west-1.amazonaws.com/wyqdatabase/Test.rar)***
-* If the above links are not accessable, you could download the dataset using 
+* If the above links are not accessable, you can download this dataset through 
 ***<a href="https://pan.baidu.com/s/1YD76gpQ2WjkhjkMnHmU3tQ" target="_blank">Baidu Drive</a>*** or 
 ***<a href="https://drive.google.com/drive/folders/10LTXCSp9UqY9A9HVj3sAf7zmS4KdJo2T?usp=sharing" target="_blank">Google Drive</a>***
 
@@ -50,10 +50,11 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 
 
 ## Related Work
-The following papers employed the ***Flickr1024*** dataset for their research:
-* L. Wang, Y. Wang, Z. Liang, Z. Lin, J. Yang, W. An, Y. Guo, "Learning Parallax Attention for Stereo Image Super-resolution", in *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet">code</a>]**.
-* Y. Oktar, D. Karakaya, O. Ulucan, M. Turkan, "Convolutional Neural Networks: A Binocular Vision Perspective", *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf">pdf</a>]**
-* C. Duan, N. Xiao, "Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution", *IEEE Access*, 2019. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936066">pdf</a>]**.
+The following works have employed the ***Flickr1024*** dataset:
+
+* Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution, *IEEE Access*, 2019. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936066">pdf</a>]**.
+* Convolutional Neural Networks: A Binocular Vision Perspective, *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf">pdf</a>]**
+* Learning Parallax Attention for Stereo Image Super-resolution, *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet">code</a>]**.
 
 ## Other Stereo Image Datasets
 * ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***

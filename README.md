@@ -7,6 +7,7 @@
 
 ***Flickr1024 is a large-scale stereo dataset, which consists of 1024 high-quality images pairs and covers diverse senarios. 
 This dataset can be employed for stereo image super-resolution (SR). [<a href="https://arxiv.org/pdf/1903.06332.pdf">details</a>]*** <br><br>
+***<a href="https://github.com/YingqianWang/Flickr1024">Github Project Page</a>*** <br><br>
 
 ## Sample Images
 

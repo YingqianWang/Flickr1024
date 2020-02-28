@@ -59,9 +59,11 @@ The following works have employed the ***Flickr1024*** dataset:
 * Learning Parallax Attention for Stereo Image Super-resolution, *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet">code</a>]**.
 
 ## Other Stereo Image Datasets
+* ***<a href="https://github.com/YuhuaXu/StereoDataset" target="_blank">The InStereo2K Dataset</a>***
 * ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***
 * ***<a href="http://vision.middlebury.edu/stereo/" target="_blank">The Middlebury Stereo Vision Page</a>***
 * ***<a href="https://www.eth3d.net/" target="_blank">The ETH3D Benchmark</a>***
+
 
 ## Contact
 Please contact us at ***wangyingqian16@nudt.edu.cn*** for any question.

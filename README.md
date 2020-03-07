@@ -14,10 +14,7 @@ This dataset can be employed for stereo image super-resolution (SR). [<a href="h
 <br><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Sample Images.jpg"><br><br>
 
 ## Downloads
-* ***[Train](https://s3-us-west-1.amazonaws.com/wyqdatabase/Train.rar)***
-* ***[Validation](https://s3-us-west-1.amazonaws.com/wyqdatabase/Validation.rar)***
-* ***[Test](https://s3-us-west-1.amazonaws.com/wyqdatabase/Test.rar)***
-* If the above links are not accessable, you can download this dataset through 
+* The ***Flickr1024*** dataset can be downloaded via
 ***<a href="https://pan.baidu.com/s/1YD76gpQ2WjkhjkMnHmU3tQ" target="_blank">Baidu Drive</a>*** or 
 ***<a href="https://drive.google.com/drive/folders/10LTXCSp9UqY9A9HVj3sAf7zmS4KdJo2T?usp=sharing" target="_blank">Google Drive</a>***
 

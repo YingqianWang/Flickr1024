@@ -34,6 +34,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
   author = {Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},<br>
   title = {Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution},<br>
   booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},<br>
+  pages={3852-3857},<br>
   month = {Oct},<br>
   year = {2019}<br>
   }<br>

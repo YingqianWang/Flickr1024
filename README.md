@@ -59,8 +59,8 @@ The following works have employed the ***Flickr1024*** dataset:
 
 ## Other Stereo Image Datasets
 * ***<a href="http://github.com/leiainc/holopix50k" target="_blank">The Holopix50k Dataset</a>***
-* ***<a href="" target="_blank">The WSVD Dataset</a>***
 * ***<a href="https://github.com/YuhuaXu/StereoDataset" target="_blank">The InStereo2K Dataset</a>***
+* ***<a href="https://sites.google.com/view/wsvd/" target="_blank">The WSVD Dataset</a>***
 * ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***
 * ***<a href="http://vision.middlebury.edu/stereo/" target="_blank">The Middlebury Stereo Vision Page</a>***
 * ***<a href="https://www.eth3d.net/" target="_blank">The ETH3D Benchmark</a>***

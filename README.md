@@ -55,13 +55,14 @@ The following works have employed the ***Flickr1024*** dataset:
 * Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution, *IEEE Access*, 2019. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936066">pdf</a>]**.
 * Convolutional Neural Networks: A Binocular Vision Perspective, *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf">pdf</a>]**
 * Learning Parallax Attention for Stereo Image Super-resolution, *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet">code</a>]**.
+* Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset, *arXiv 2020*. **[<a href="https://arxiv.org/pdf/2003.11172.pdf">pdf</a>]** , **[<a href="https://github.com/LeiaInc/holopix50k">code</a>]**.
 
 ## Other Stereo Image Datasets
 * ***<a href="https://github.com/YuhuaXu/StereoDataset" target="_blank">The InStereo2K Dataset</a>***
 * ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***
 * ***<a href="http://vision.middlebury.edu/stereo/" target="_blank">The Middlebury Stereo Vision Page</a>***
 * ***<a href="https://www.eth3d.net/" target="_blank">The ETH3D Benchmark</a>***
-
+* ***<a href="https://leiainc.github.io/holopix50k/" target="_blank">The Holopix50k Dataset</a>***
 
 ## Contact
 Please contact us at ***wangyingqian16@nudt.edu.cn*** for any question.

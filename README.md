@@ -6,8 +6,7 @@
 ### <center><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.jpg" width="480"></center>
 
 ***Flickr1024 is a large-scale stereo dataset, which consists of 1024 high-quality images pairs and covers diverse senarios. 
-This dataset can be employed for stereo image super-resolution (SR). [<a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Wang_Flickr1024_A_Large-Scale_Dataset_for_Stereo_Image_Super-Resolution_ICCVW_2019_paper.pdf">details</a>]*** <br><br>
-***<a href="https://github.com/YingqianWang/Flickr1024">Github Project Page</a>*** <br><br>
+This dataset can be employed for stereo image super-resolution (SR). [<a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Wang_Flickr1024_A_Large-Scale_Dataset_for_Stereo_Image_Super-Resolution_ICCVW_2019_paper.pdf">paper</a>]*** <br><br>
 
 ## Sample Images
 
@@ -49,7 +48,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 
 
 ## Related Work
-The following works have employed the ***Flickr1024*** dataset:
+We recommend [**this repository**](https://github.com/YingqianWang/Awesome-Stereo-Image-SR) to you to have a overview for stereo image SR. Moreover, the following works have employed our ***Flickr1024*** dataset:
 * Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution, *ICASSP 2020*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054687" target="_blank">pdf</a>]**
 * Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset, *arXiv 2020*, **[<a href="https://arxiv.org/pdf/2003.11172.pdf" target="_blank">pdf</a>]**, **[<a href="http://github.com/leiainc/holopix50k" target="_blank">dataset</a>]**.
 * Stereoscopic Image Super-Resolution with Stereo Consistent Feature, *AAAI 2020*. **[<a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongW.10348.pdf" target="_blank">pdf</a>]**

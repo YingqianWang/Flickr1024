@@ -5,8 +5,8 @@
 
 ### <center><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.jpg" width="480"></center>
 
-***Flickr1024 is a large-scale stereo dataset, which consists of 1024 high-quality images pairs and covers diverse senarios. 
-This dataset can be employed for stereo image super-resolution (SR). [<a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Wang_Flickr1024_A_Large-Scale_Dataset_for_Stereo_Image_Super-Resolution_ICCVW_2019_paper.pdf">paper</a>]*** <br><br>
+#### Flickr1024 is a large-scale stereo dataset, which consists of 1024 high-quality images pairs and covers diverse senarios. This dataset can be employed for stereo image super-resolution (SR). [<a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Wang_Flickr1024_A_Large-Scale_Dataset_for_Stereo_Image_Super-Resolution_ICCVW_2019_paper.pdf">ICCVW paper</a>]<br>
+#### Note: We recommend [*Awesome-Stereo-Image-SR*](https://github.com/YingqianWang/Awesome-Stereo-Image-SR) for an overview on stereo image SR.<br><br>
 
 ## Sample Images
 
@@ -48,7 +48,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 
 
 ## Related Work
-We recommend [**this repository**](https://github.com/YingqianWang/Awesome-Stereo-Image-SR) for an overview on stereo image SR, and our ***Flickr1024*** dataset is used by the following works:
+The ***Flickr1024*** dataset is used by the following works:
 * Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution, *ICASSP 2020*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054687" target="_blank">pdf</a>]**
 * Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset, *arXiv 2020*, **[<a href="https://arxiv.org/pdf/2003.11172.pdf" target="_blank">pdf</a>]**, **[<a href="http://github.com/leiainc/holopix50k" target="_blank">dataset</a>]**.
 * Stereoscopic Image Super-Resolution with Stereo Consistent Feature, *AAAI 2020*. **[<a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongW.10348.pdf" target="_blank">pdf</a>]**

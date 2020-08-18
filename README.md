@@ -48,7 +48,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 
 
 ## Related Work
-The ***Flickr1024*** dataset is used by the following works:
+The ***Flickr1024*** dataset was used by the following works:
 * Feature Representation Matters: End-to-End Learning for Reference-based Image Super-resolution, *arXiv 2020*, **[<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf" target="_blank">pdf</a>]**
 * Learning Stereo from Single Images, *ECCV 2020*, **[<a href="https://arxiv.org/pdf/2008.01484.pdf" target="_blank">pdf</a>]**
 * Self-Convolution: A Highly-Efficient Operator for Non-Local Image Restoration, *arXiv 2020*, **[<a href="https://arxiv.org/pdf/2006.13714.pdf" target="_blank">pdf</a>]**
@@ -61,12 +61,13 @@ The ***Flickr1024*** dataset is used by the following works:
 * Learning Parallax Attention for Stereo Image Super-resolution, *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet" target="_blank">code</a>]**.
 
 ## Other Stereo Image Datasets
-* ***<a href="http://github.com/leiainc/holopix50k" target="_blank">The Holopix50k Dataset</a>***
-* ***<a href="https://github.com/YuhuaXu/StereoDataset" target="_blank">The InStereo2K Dataset</a>***
-* ***<a href="https://sites.google.com/view/wsvd/" target="_blank">The WSVD Dataset</a>***
 * ***<a href="http://www.cvlibs.net/datasets/kitti/index.php" target="_blank">The KITTI Vision Benchmark Suite</a>***
 * ***<a href="http://vision.middlebury.edu/stereo/" target="_blank">The Middlebury Stereo Vision Page</a>***
 * ***<a href="https://www.eth3d.net/" target="_blank">The ETH3D Benchmark</a>***
+* ***<a href="https://github.com/YuhuaXu/StereoDataset" target="_blank">The InStereo2K Dataset</a>***
+* ***<a href="http://github.com/leiainc/holopix50k" target="_blank">The Holopix50k Dataset</a>***
+* ***<a href="https://sites.google.com/view/wsvd/" target="_blank">The WSVD Dataset</a>***
+
 
 
 ## Contact

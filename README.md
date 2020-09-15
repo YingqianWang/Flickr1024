@@ -29,26 +29,35 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
  and ***<a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a>*** for the approval of using their cross-eye stereo photographs.
 
 ## Citiations
-* @InProceedings{flickr1024,<br>
-  author = {Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},<br>
-  title = {Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution},<br>
-  booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},<br>
-  pages={3852-3857},<br>
-  month = {Oct},<br>
-  year = {2019}<br>
-  }<br>
+```
+  @InProceedings{flickr1024,
+  author = {Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},
+  title = {Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution},
+  booktitle = {International Conference on Computer Vision Workshops},
+  pages={3852-3857},
+  month = {Oct},
+  year = {2019}
+  }
   
-* @inproceedings{PASSRnet,<br>
-  title={Learning parallax attention for stereo image super-resolution},<br>
-  author={Wang, Longguang and Wang, Yingqian and Liang, Zhengfa and Lin, Zaiping and Yang, Jungang and An, Wei and Guo, Yulan},<br>
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},<br>
-  pages={12250--12259},<br>
-  year={2019}<br>
-  }<br>
-
+  @Article{Wang2020Parallax,
+  author    = {Wang, Longguang and Guo, Yulan and Wang, Yingqian and Liang, Zhengfa and Lin, Zaiping and Yang, Jungang and An, Wei},
+  title     = {Parallax Attention for Unsupervised Stereo Correspondence Learning},
+  journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year      = {2020},
+  }
+  
+  @inproceedings{PASSRnet,
+  title={Learning parallax attention for stereo image super-resolution},
+  author={Wang, Longguang and Wang, Yingqian and Liang, Zhengfa and Lin, Zaiping and Yang, Jungang and An, Wei and Guo, Yulan},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={12250--12259},
+  year={2019}
+  }
+```
 
 ## Related Work
 The ***Flickr1024*** dataset was used by the following works:
+* Parallax Attention for Unsupervised Stereo Correspondence Learning, *TPAMI 2020*, **[<a href="https://github.com/LongguangWang/PAM" target="_blank">code</a>]**.
 * Mononizing Binocular Videos, *ACM Transactions on Graphics 2020*, **[<a href="https://arxiv.org/pdf/2009.01424.pdf" target="_blank">pdf</a>]**.
 * Feature Representation Matters: End-to-End Learning for Reference-based Image Super-resolution, *ECCV 2020*, **[<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf" target="_blank">pdf</a>]**.
 * Learning Stereo from Single Images, *ECCV 2020*, **[<a href="https://arxiv.org/pdf/2008.01484.pdf" target="_blank">pdf</a>]**.

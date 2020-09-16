@@ -30,28 +30,28 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 
 ## Citiations
 ```
-  @InProceedings{flickr1024,
-  author = {Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},
-  title = {Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution},
+  @InProceedings{Flickr1024,
+  author    = {Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},
+  title     = {Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution},
   booktitle = {International Conference on Computer Vision Workshops},
-  pages={3852-3857},
-  month = {Oct},
-  year = {2019}
+  pages     = {3852-3857},
+  month     = {Oct},
+  year      = {2019}
   }
   
-  @Article{Wang2020Parallax,
-  author    = {Wang, Longguang and Guo, Yulan and Wang, Yingqian and Liang, Zhengfa and Lin, Zaiping and Yang, Jungang and An, Wei},
-  title     = {Parallax Attention for Unsupervised Stereo Correspondence Learning},
-  journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year      = {2020},
+  @Article{PAM,
+  author  = {Wang, Longguang and Guo, Yulan and Wang, Yingqian and Liang, Zhengfa and Lin, Zaiping and Yang, Jungang and An, Wei},
+  title   = {Parallax Attention for Unsupervised Stereo Correspondence Learning},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year    = {2020},
   }
   
   @inproceedings{PASSRnet,
-  title={Learning parallax attention for stereo image super-resolution},
-  author={Wang, Longguang and Wang, Yingqian and Liang, Zhengfa and Lin, Zaiping and Yang, Jungang and An, Wei and Guo, Yulan},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={12250--12259},
-  year={2019}
+  title     = {Learning parallax attention for stereo image super-resolution},
+  author    = {Wang, Longguang and Wang, Yingqian and Liang, Zhengfa and Lin, Zaiping and Yang, Jungang and An, Wei and Guo, Yulan},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages     = {12250--12259},
+  year      = {2019}
   }
 ```
 
@@ -78,8 +78,6 @@ The ***Flickr1024*** dataset was used by the following works:
 * ***<a href="http://github.com/leiainc/holopix50k" target="_blank">The Holopix50k Dataset</a>***
 * ***<a href="https://sites.google.com/view/wsvd/" target="_blank">The WSVD Dataset</a>***
 
-
-
 ## Contact
-Please contact us at ***wangyingqian16@nudt.edu.cn*** for any question.
+Any question regarding this work can be addressed to ***wangyingqian16@nudt.edu.cn***.
 

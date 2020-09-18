@@ -58,7 +58,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 The ***Flickr1024*** dataset was used by the following works for different tasks:
 
 #### *Stereo Image Super-Resolution*:
-* Parallax Attention for Unsupervised Stereo Correspondence Learning, *TPAMI 2020*, **[<a href="https://github.com/LongguangWang/PAM" target="_blank">code</a>]**.
+* Parallax Attention for Unsupervised Stereo Correspondence Learning, *TPAMI 2020*, **[<a href="https://arxiv.org/pdf/2009.08250.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PAM" target="_blank">code</a>]**.
 * Learning Parallax Attention for Stereo Image Super-resolution, *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet" target="_blank">code</a>]**.
 * A Stereo Attention Module for Stereo Image Super-Resolution, *IEEE Signal Processing Letters 2020*. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8998204" target="_blank">pdf</a>]**, **[<a href="https://github.com/XinyiYing/SAM" target="_blank">code</a>]**.
 * Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution, *ICASSP 2020*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054687" target="_blank">pdf</a>]**.

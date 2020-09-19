@@ -62,7 +62,7 @@ The ***Flickr1024*** dataset was used by the following works for different tasks
 * Learning Parallax Attention for Stereo Image Super-resolution, *CVPR 2019*. **[<a href="https://arxiv.org/pdf/1903.05784.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PASSRnet" target="_blank">code</a>]**.
 * A Stereo Attention Module for Stereo Image Super-Resolution, *IEEE Signal Processing Letters 2020*. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8998204" target="_blank">pdf</a>]**, **[<a href="https://github.com/XinyiYing/SAM" target="_blank">code</a>]**.
 * Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution, *ICASSP 2020*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054687" target="_blank">pdf</a>]**.
-* Stereoscopic Image Super-Resolution with Stereo Consistent Feature, *AAAI 2020*. **[<a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongW.10348.pdf" target="_blank">pdf</a>]**.
+* Stereoscopic Image Super-Resolution with Stereo Consistent Feature, *AAAI 2020*. **[<a href="https://aaai.org/ojs/index.php/AAAI/article/view/6880/6734" target="_blank">pdf</a>]**.
 * Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution, *IEEE Access 2019*. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936066" target="_blank">pdf</a>]**.
 
 #### *Stereo Image Denoising*:

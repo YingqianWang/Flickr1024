@@ -64,6 +64,7 @@ The ***Flickr1024*** dataset was used by the following works for different tasks
 * Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution, *ICASSP 2020*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054687" target="_blank">pdf</a>]**.
 * Stereoscopic Image Super-Resolution with Stereo Consistent Feature, *AAAI 2020*. **[<a href="https://aaai.org/ojs/index.php/AAAI/article/view/6880/6734" target="_blank">pdf</a>]**.
 * Parallax-based Spatial and Channel Attention for Stereo Image Super-resolution, *IEEE Access 2019*. **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936066" target="_blank">pdf</a>]**.
+* ProPaCoL-Net: A Novel Recursive Stereo Image SR Network with Progressive Parallax Coherency Learning, *Electronic Imaging 2020*. **[<a href="https://www.ingentaconnect.com/contentone/ist/ei/2020/00002020/00000014/art00015?crawler=true&mimetype=application/pdf" target="_blank">pdf</a>]**.
 
 #### *Stereo Image Denoising*:
 * Self-Convolution: A Highly-Efficient Operator for Non-Local Image Restoration, *arXiv 2020*, **[<a href="https://arxiv.org/pdf/2006.13714.pdf" target="_blank">pdf</a>]**.

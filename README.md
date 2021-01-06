@@ -83,8 +83,8 @@ The ***Flickr1024*** dataset was used by the following works for different tasks
 * Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset, *arXiv 2020*, **[<a href="https://arxiv.org/pdf/2003.11172.pdf" target="_blank">pdf</a>]**.<br><br>
 
 ## Contact
-Any question regarding this work can be addressed to ***wangyingqian16@nudt.edu.cn***.<br><br>
+Any question regarding this work can be addressed to ***wangyingqian16@nudt.edu.cn***.<br><br><br><br>
 
-<a href="https://clustrmaps.com/site/1bffp" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=MaBzJxwcJLRriYjIQM7YievKCbZukY_u6HBrzaibiTM&cl=ffffff"></a>
+<a href="https://clustrmaps.com/site/1bffp" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=MaBzJxwcJLRriYjIQM7YievKCbZukY_u6HBrzaibiTM" /></a>
 
 

@@ -85,6 +85,6 @@ The ***Flickr1024*** dataset was used by the following works for different tasks
 ## Contact
 Any question regarding this work can be addressed to ***wangyingqian16@nudt.edu.cn***.<br><br><br><br>
 
-<a href="https://clustrmaps.com/site/1bffp" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=tt&d=MaBzJxwcJLRriYjIQM7YievKCbZukY_u6HBrzaibiTM" /></a>
+<a href="https://clustrmaps.com/site/1bffp" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=m&d=MaBzJxwcJLRriYjIQM7YievKCbZukY_u6HBrzaibiTM&co=55a4dc&ct=fffb00" /></a>
 
 

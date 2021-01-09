@@ -9,7 +9,7 @@
 
 ## Sample Images
 
-<br><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Sample Images.jpg"><br><br>
+<br><img src="pics/Sample Images.jpg"><br><br>
 
 ## Downloads
 * The ***Flickr1024*** dataset can be downloaded via

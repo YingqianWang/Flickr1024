@@ -3,7 +3,7 @@
 
 ***<center><a href="https://yingqianwang.github.io/homepage" target="_blank">Yingqian Wang</a>&emsp; <a href="https://github.com/LongguangWang" target="_blank">Longguang Wang</a>&emsp; Jungang Yang&emsp; Wei An&emsp; <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a></center>*** <br>
 
-### <center><img src="https://raw.github.com/YingqianWang/Flickr1024/master/pics/Flickr1024.jpg" width="480"></center>
+### <center><img src="pics/Flickr1024.jpg" width="480"></center>
 
 ***Flickr1024 is a large-scale stereo image dataset which consists of 1024 high-quality image pairs and covers diverse senarios. Details of this dataset can be found in our <a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Wang_Flickr1024_A_Large-Scale_Dataset_for_Stereo_Image_Super-Resolution_ICCVW_2019_paper.pdf">published paper</a>. Although the Flickr1024 dataset was originally developed for stereo image SR (click [here](https://github.com/YingqianWang/Awesome-Stereo-Image-SR) for an overview), it was also used for many other tasks such as reference-based SR, stereo matching, and stereo image denoising.***<br>
 

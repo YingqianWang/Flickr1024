@@ -1,5 +1,5 @@
 
-# *<center>Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution</center>* <br>
+# *<center>Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution</center>*
 
 ***<center><a href="https://yingqianwang.github.io" target="_blank">Yingqian Wang</a>&emsp; <a href="https://github.com/LongguangWang" target="_blank">Longguang Wang</a>&emsp; Jungang Yang&emsp; Wei An&emsp; <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a></center>*** <br>
 
@@ -55,7 +55,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 ```
 <br>
 
-### *Our dataset was used by the following works for different tasks*:
+## *Our dataset was used by the following works for different tasks*:
 
 #### *Stereo Image Super-Resolution*:
 * Symmetric Parallax Attention for Stereo Image Super-Resolution, *arXiv 2020*. **[<a href="https://arxiv.org/pdf/2011.03802.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/YingqianWang/iPASSR" target="_blank">code</a>]**.

@@ -1,11 +1,11 @@
 
-# *<center>Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution</center>* 
+# *<center>Flickr1024: A Large-Scale Dataset for Stereo Image Super-Resolution</center>* <br><br>
 
 ***<center><a href="https://yingqianwang.github.io" target="_blank">Yingqian Wang</a>&emsp; <a href="https://github.com/LongguangWang" target="_blank">Longguang Wang</a>&emsp; Jungang Yang&emsp; Wei An&emsp; <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a></center>*** <br>
 
 ### <center><img src="pics/Flickr1024.jpg" width="480"></center>
 
-***Flickr1024 is a large-scale stereo image dataset which consists of 1024 high-quality image pairs and covers diverse senarios. Details of this dataset can be found in our <a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Wang_Flickr1024_A_Large-Scale_Dataset_for_Stereo_Image_Super-Resolution_ICCVW_2019_paper.pdf">published paper</a>. Although the Flickr1024 dataset was originally developed for stereo image SR (click [here](https://github.com/YingqianWang/Awesome-Stereo-Image-SR) for an overview), it was also used for many other tasks such as reference-based SR, stereo matching, and stereo image denoising.***<br>
+***Flickr1024 is a large-scale stereo image dataset which consists of 1024 high-quality image pairs and covers diverse senarios. Details of this dataset can be found in our <a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Wang_Flickr1024_A_Large-Scale_Dataset_for_Stereo_Image_Super-Resolution_ICCVW_2019_paper.pdf">published paper</a>. Although the Flickr1024 dataset was originally developed for stereo image SR (click [here](https://github.com/YingqianWang/Awesome-Stereo-Image-SR) for an overview), it was also used for many other tasks such as reference-based SR, stereo matching, and stereo image denoising.***<br><br><br>
 
 ## Sample Images
 
@@ -14,18 +14,18 @@
 ## Downloads
 * The ***Flickr1024*** dataset can be downloaded via
 ***<a href="https://pan.baidu.com/s/1YD76gpQ2WjkhjkMnHmU3tQ" target="_blank">Baidu Drive</a>*** or 
-***<a href="https://drive.google.com/drive/folders/10LTXCSp9UqY9A9HVj3sAf7zmS4KdJo2T?usp=sharing" target="_blank">Google Drive</a>***
+***<a href="https://drive.google.com/drive/folders/10LTXCSp9UqY9A9HVj3sAf7zmS4KdJo2T?usp=sharing" target="_blank">Google Drive</a>*** <br>
 
 ## Notations
 * The ***Flickr1024*** dataset is available for ***non-commercial*** use only. 
   Therefore, You agree **NOT** to reproduce, duplicate, copy, sell, trade, or resell any portion of the images and any portion of derived data.
 * All images on the ***Flickr1024*** dataset are obtained from ***<a href="https://flickr.com" target="_blank">Flickr</a>***
 and they are not the property of our laboratory. 
-* We reserve the right to terminate your access to the ***Flickr1024*** dataset at any time.
+* We reserve the right to terminate your access to the ***Flickr1024*** dataset at any time. <br>
 
 ## Acknowledgement
 We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" target="_blank">Sascha Becher</a>***
- and ***<a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a>*** for the approval of using their cross-eye stereo photographs.
+ and ***<a href="https://www.flickr.com/photos/tombentz" target="_blank">Tom Bentz</a>*** for the approval of using their cross-eye stereo photographs. <br>
 
 ## Citiations
 ```
@@ -53,9 +53,9 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
   year      = {2019}
   }
 ```
+<br><br>
 
-## Related Work
-The ***Flickr1024*** dataset was used by the following works for different tasks:
+## The ***Flickr1024*** dataset was used by the following works for different tasks:
 
 #### *Stereo Image Super-Resolution*:
 * Symmetric Parallax Attention for Stereo Image Super-Resolution, *arXiv 2020*. **[<a href="https://arxiv.org/pdf/2011.03802.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/YingqianWang/iPASSR" target="_blank">code</a>]**.

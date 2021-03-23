@@ -43,7 +43,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 ## *Our dataset was used by the following works for different tasks*:
 
 #### *Stereo Image Super-Resolution*:
-* Deep Bilateral Learning for Stereo Image Super-Resolution, *SPL 2020*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9382858" target="_blank">pdf</a>]**.
+* Deep Bilateral Learning for Stereo Image Super-Resolution, *SPL 2021*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9382858" target="_blank">pdf</a>]**.
 * Symmetric Parallax Attention for Stereo Image Super-Resolution, *arXiv 2020*. **[<a href="https://arxiv.org/pdf/2011.03802.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/YingqianWang/iPASSR" target="_blank">code</a>]**.
 * Deep Stereoscopic Image Super-Resolution via Interaction Module, *TCSVT 2020*.
 * Parallax Attention for Unsupervised Stereo Correspondence Learning, *TPAMI 2020*, **[<a href="https://arxiv.org/pdf/2009.08250.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PAM" target="_blank">code</a>]**.

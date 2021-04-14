@@ -43,8 +43,8 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 ## *Our dataset was used by the following works for different tasks*:
 
 #### *Stereo Image Super-Resolution*:
+* Symmetric Parallax Attention for Stereo Image Super-Resolution, *CVPRW 2021*. **[<a href="https://arxiv.org/pdf/2011.03802.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/YingqianWang/iPASSR" target="_blank">code</a>]**, **[<a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4" target="_blank">demo</a>]**.
 * Deep Bilateral Learning for Stereo Image Super-Resolution, *IEEE Signal Processing Letters 2021*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9382858" target="_blank">pdf</a>]**.
-* Symmetric Parallax Attention for Stereo Image Super-Resolution, *arXiv 2020*. **[<a href="https://arxiv.org/pdf/2011.03802.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/YingqianWang/iPASSR" target="_blank">code</a>]**.
 * Deep Stereoscopic Image Super-Resolution via Interaction Module, *TCSVT 2020*.
 * Parallax Attention for Unsupervised Stereo Correspondence Learning, *TPAMI 2020*, **[<a href="https://arxiv.org/pdf/2009.08250.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PAM" target="_blank">code</a>]**.
 * Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution, *ICASSP 2020*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054687" target="_blank">pdf</a>]**.

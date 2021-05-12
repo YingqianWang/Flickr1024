@@ -14,7 +14,7 @@
 ## Downloads
 * The ***Flickr1024*** dataset can be downloaded via
 ***<a href="https://pan.baidu.com/s/1YD76gpQ2WjkhjkMnHmU3tQ" target="_blank">Baidu Drive</a>*** or 
-***<a href="https://drive.google.com/drive/folders/10LTXCSp9UqY9A9HVj3sAf7zmS4KdJo2T?usp=sharing" target="_blank">Google Drive</a>*** <br><br>
+***<a href="https://drive.google.com/file/d/1My6oQaHzclxRrKID-mylvs6Z0d5pT_Cu/view?usp=sharing" target="_blank">Google Drive</a>*** <br><br>
 
 ## Notations
 * The ***Flickr1024*** dataset is available for ***non-commercial*** use only. 

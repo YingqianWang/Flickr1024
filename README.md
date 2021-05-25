@@ -61,6 +61,9 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 #### *Stereo Matching*:
 * Learning Stereo from Single Images, *ECCV 2020*, **[<a href="https://arxiv.org/pdf/2008.01484.pdf" target="_blank">pdf</a>]**.
 
+#### *Single Image Denoising*:
+* Image Denoising Using a Novel Deep Generative Network with Multiple Target Images and Adaptive Termination Condition, *Applied Science*, **[<a href="https://www.mdpi.com/2076-3417/11/11/4803/htm" target="_blank">pdf</a>]**
+
 #### *Other Tasks*:
 * Mononizing Binocular Videos, *ACM Transactions on Graphics 2020*, **[<a href="https://arxiv.org/pdf/2009.01424.pdf" target="_blank">pdf</a>]**.
 * Convolutional Neural Networks: A Binocular Vision Perspective, *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf" target="_blank">pdf</a>]**.

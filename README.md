@@ -46,6 +46,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 * Feedback Network for Mutually Boosted Stereo Image Super-Resolution and Disparity Estimation, *arXiv 2021*. **[<a href="https://arxiv.org/pdf/2106.00985.pdf" target="_blank">pdf</a>]**
 * Symmetric Parallax Attention for Stereo Image Super-Resolution, *CVPRW 2021*. **[<a href="https://arxiv.org/pdf/2011.03802.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/YingqianWang/iPASSR" target="_blank">code</a>]**, **[<a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4" target="_blank">demo</a>]**.
 * Deep Bilateral Learning for Stereo Image Super-Resolution, *IEEE Signal Processing Letters 2021*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9382858" target="_blank">pdf</a>]**.
+* A Disparity Feature Alignment Module for Stereo Image Super-Resolution, *IEEE Signal Processing Letters 2021*.
 * Deep Stereoscopic Image Super-Resolution via Interaction Module, *TCSVT 2020*.
 * Parallax Attention for Unsupervised Stereo Correspondence Learning, *TPAMI 2020*, **[<a href="https://arxiv.org/pdf/2009.08250.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/LongguangWang/PAM" target="_blank">code</a>]**.
 * Non-Local Nested Residual Attention Network for Stereo Image Super-Resolution, *ICASSP 2020*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054687" target="_blank">pdf</a>]**.
@@ -66,6 +67,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 * Image Denoising Using a Novel Deep Generative Network with Multiple Target Images and Adaptive Termination Condition, *Applied Science*, **[<a href="https://www.mdpi.com/2076-3417/11/11/4803/htm" target="_blank">pdf</a>]**
 
 #### *Other Tasks*:
+* Asymmetric stereo color transfer, *ICME 2021*.
 * Mononizing Binocular Videos, *ACM Transactions on Graphics 2020*, **[<a href="https://arxiv.org/pdf/2009.01424.pdf" target="_blank">pdf</a>]**.
 * Convolutional Neural Networks: A Binocular Vision Perspective, *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf" target="_blank">pdf</a>]**.
 * Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset, *arXiv 2020*, **[<a href="https://arxiv.org/pdf/2003.11172.pdf" target="_blank">pdf</a>]**.<br><br>

@@ -40,7 +40,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 ```
 <br>
 
-## *Our dataset was used by the following works for different tasks*:
+## *Our dataset was used by the following works for various tasks*:
 
 #### *Stereo Image Super-Resolution*:
 * Symmetric Parallax Attention for Stereo Image Super-Resolution, *CVPRW 2021*. **[<a href="https://arxiv.org/pdf/2011.03802.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/YingqianWang/iPASSR" target="_blank">code</a>]**, **[<a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4" target="_blank">demo</a>]**, **[<a href="https://wyqdatabase.s3.us-west-1.amazonaws.com/Submission_0021_video_presentation.mp4" target="_blank">presentation</a>]**.
@@ -64,11 +64,16 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 #### *Stereo Matching*:
 * Learning Stereo from Single Images, *ECCV 2020*, **[<a href="https://arxiv.org/pdf/2008.01484.pdf" target="_blank">pdf</a>]**.
 
+#### *Stereo Color Mismatch Correction*:
+* Deep Color Mismatch Correction in Stereoscopic 3D Images, *ICIP 2021*.
+
+#### *Stereo Color Transfer*:
+* Asymmetric stereo color transfer, *ICME 2021*.
+
 #### *Single Image Denoising*:
 * Image Denoising Using a Novel Deep Generative Network with Multiple Target Images and Adaptive Termination Condition, *Applied Science*, **[<a href="https://www.mdpi.com/2076-3417/11/11/4803/htm" target="_blank">pdf</a>]**
 
 #### *Other Tasks*:
-* Asymmetric stereo color transfer, *ICME 2021*.
 * Mononizing Binocular Videos, *ACM Transactions on Graphics 2020*, **[<a href="https://arxiv.org/pdf/2009.01424.pdf" target="_blank">pdf</a>]**.
 * Convolutional Neural Networks: A Binocular Vision Perspective, *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf" target="_blank">pdf</a>]**.
 * Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset, *arXiv 2020*, **[<a href="https://arxiv.org/pdf/2003.11172.pdf" target="_blank">pdf</a>]**.<br><br>

@@ -43,6 +43,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 ## *Our dataset was used by the following works for various tasks*:
 
 #### *Stereo Image Super-Resolution*:
+* Cross View Capture for Stereo Image Super-Resolution, *TMM 2021*. **[<a href="https://github.com/xyzhu1/CVCnet" target="_blank">code</a>]**
 * Symmetric Parallax Attention for Stereo Image Super-Resolution, *CVPRW 2021*. **[<a href="https://arxiv.org/pdf/2011.03802.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/YingqianWang/iPASSR" target="_blank">code</a>]**, **[<a href="https://wyqdatabase.s3-us-west-1.amazonaws.com/iPASSR_visual_comparison.mp4" target="_blank">demo</a>]**, **[<a href="https://wyqdatabase.s3.us-west-1.amazonaws.com/Submission_0021_video_presentation.mp4" target="_blank">presentation</a>]**.
 * Feedback Network for Mutually Boosted Stereo Image Super-Resolution and Disparity Estimation, *arXiv 2021*. **[<a href="https://arxiv.org/pdf/2106.00985.pdf" target="_blank">pdf</a>]**
 * Deep Bilateral Learning for Stereo Image Super-Resolution, *IEEE Signal Processing Letters 2021*, **[<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9382858" target="_blank">pdf</a>]**.

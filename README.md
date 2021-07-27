@@ -59,11 +59,15 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 #### *Stereo Matching*:
 * Learning Stereo from Single Images, *ECCV 2020*, **[<a href="https://arxiv.org/pdf/2008.01484.pdf" target="_blank">pdf</a>]**.
 
+#### *Stereo Image Denoising*:
+* Joint Denoising of Stereo Images Using 3D CNN, *ISICV 2020*.
+
 #### *Stereo Color Mismatch Correction*:
 * Deep Color Mismatch Correction in Stereoscopic 3D Images, *ICIP 2021*.
 
 #### *Stereo Color Transfer*:
 * Asymmetric stereo color transfer, *ICME 2021*.
+
 
 #### *Reference-based Image Super-Resolution*:
 * Feature Representation Matters: End-to-End Learning for Reference-based Image Super-resolution, *ECCV 2020*, **[<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf" target="_blank">pdf</a>]**.

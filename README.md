@@ -78,6 +78,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 * Image Denoising Using a Novel Deep Generative Network with Multiple Target Images and Adaptive Termination Condition, *Applied Science*, **[<a href="https://www.mdpi.com/2076-3417/11/11/4803/htm" target="_blank">pdf</a>]**
 
 #### *Other Tasks*:
+* IICNet: A Generic Framework for Reversible Image Conversion, *ICCV 2021*, **[<a href="https://arxiv.org/pdf/2109.04242.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/felixcheng97/IICNet" target="_blank">code</a>]**.
 * Mononizing Binocular Videos, *ACM Transactions on Graphics 2020*, **[<a href="https://arxiv.org/pdf/2009.01424.pdf" target="_blank">pdf</a>]**.
 * Convolutional Neural Networks: A Binocular Vision Perspective, *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf" target="_blank">pdf</a>]**.
 * Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset, *arXiv 2020*, **[<a href="https://arxiv.org/pdf/2003.11172.pdf" target="_blank">pdf</a>]**.<br><br>

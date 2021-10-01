@@ -84,8 +84,7 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 * Holopix50k: A Large-Scale In-the-wild Stereo Image Dataset, *arXiv 2020*, **[<a href="https://arxiv.org/pdf/2003.11172.pdf" target="_blank">pdf</a>]**.<br><br>
 
 ## Contact
-Any question regarding this work can be addressed to ***wangyingqian16@nudt.edu.cn***.<br><br><br><br>
+Any question regarding this work can be addressed to ***wangyingqian16@nudt.edu.cn***.<br><br><br>
 
-<a href="https://clustrmaps.com/site/1bffp" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=m&d=MaBzJxwcJLRriYjIQM7YievKCbZukY_u6HBrzaibiTM" /></a>
-
+<a href='https://clustrmaps.com/site/1bffp'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=MaBzJxwcJLRriYjIQM7YievKCbZukY_u6HBrzaibiTM'/></a>
 

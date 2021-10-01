@@ -86,5 +86,5 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 ## Contact
 Any question regarding this work can be addressed to ***wangyingqian16@nudt.edu.cn***.<br><br><br>
 
-<a href='https://clustrmaps.com/site/1bffp'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=MaBzJxwcJLRriYjIQM7YievKCbZukY_u6HBrzaibiTM'/></a>
+<a href='https://clustrmaps.com/site/1bffp'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=MaBzJxwcJLRriYjIQM7YievKCbZukY_u6HBrzaibiTM'/></a>
 

@@ -40,9 +40,11 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 ```
 <br>
 
-## *Our dataset was used by the following works for various tasks*:
+## *Our dataset was used by the following works (selected) for various tasks*:
 
 #### *Stereo Image Super-Resolution*:
+* NAFSSR: Stereo Image Super-Resolution Using NAFNet, *CVPRW 2022*. **[<a href="https://arxiv.org/pdf/2204.08714.pdf" target="_blank">pdf</a>]**
+* NTIRE 2022 Challenge on Stereo Image Super-Resolution: Methods and Results, *CVPRW 2022*. **[<a href="https://arxiv.org/pdf/2204.09197.pdf" target="_blank">pdf</a>]**
 * Feedback Network for Mutually Boosted Stereo Image Super-Resolution and Disparity Estimation, *ACM MM 2021*. **[<a href="https://arxiv.org/pdf/2106.00985.pdf" target="_blank">pdf</a>]**
 * SA-GNN: Stereo Attention and Graph Neural Network for Stereo Image Super-Resolution, *ICIG 2021*.
 * Enhanced Back Projection Network Based Stereo Image Super-Resolution Considering Parallax Attention, *ICIP 2021*.
@@ -73,7 +75,6 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 #### *Stereo Color Transfer*:
 * Asymmetric stereo color transfer, *ICME 2021*.
 
-
 #### *Reference-based Image Super-Resolution*:
 * Feature Representation Matters: End-to-End Learning for Reference-based Image Super-resolution, *ECCV 2020*, **[<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490222.pdf" target="_blank">pdf</a>]**.
 
@@ -82,6 +83,8 @@ We would like to thank ***<a href="https://www.flickr.com/photos/stereotron/" ta
 * Image Denoising Using a Novel Deep Generative Network with Multiple Target Images and Adaptive Termination Condition, *Applied Science*, **[<a href="https://www.mdpi.com/2076-3417/11/11/4803/htm" target="_blank">pdf</a>]**
 
 #### *Other Tasks*:
+* Reversible data hiding in encrypted images without additional information transmission, *Signal Processing: Image Communication 2022*.
+* Adaptive Actor-Critic Bilateral Filter, *ICASSP 2022*.
 * IICNet: A Generic Framework for Reversible Image Conversion, *ICCV 2021*, **[<a href="https://arxiv.org/pdf/2109.04242.pdf" target="_blank">pdf</a>]**, **[<a href="https://github.com/felixcheng97/IICNet" target="_blank">code</a>]**.
 * Mononizing Binocular Videos, *ACM Transactions on Graphics 2020*, **[<a href="https://arxiv.org/pdf/2009.01424.pdf" target="_blank">pdf</a>]**.
 * Convolutional Neural Networks: A Binocular Vision Perspective, *arXiv 2019*. **[<a href="https://arxiv.xilesou.top/pdf/1912.10201.pdf" target="_blank">pdf</a>]**.
